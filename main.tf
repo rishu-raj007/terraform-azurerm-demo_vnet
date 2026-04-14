@@ -34,3 +34,5 @@ resource "azurerm_virtual_network" "vnet1" {
     security_group   = azurerm_network_security_group.secgr1.id
   }
 }
+#mai hoon ashwatthama
+#mai hoon tom
